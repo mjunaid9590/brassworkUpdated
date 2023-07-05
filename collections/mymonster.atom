@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.brassworksannex.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.brassworksannex.com/collections/mymonster.atom"/>
+  <title>Brassworks Annex</title>
+  <updated>2021-06-24T13:29:37-07:00</updated>
+  <author>
+    <name>Brassworks Annex</name>
+  </author>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600125772032</id>
+    <published>2021-06-24T13:29:37-07:00</published>
+    <updated>2021-06-24T13:29:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/handy-wolfman"/>
+    <title>HANDY WOLFMAN</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/IMG_0459.jpg?v=1645140326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gregory Hergert</span></p>
+<div>5x7</div>
+<div>Acrylic &amp; Oil on Panel</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>monster</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600125772032</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600134390016</id>
+    <published>2021-06-24T13:28:57-07:00</published>
+    <updated>2021-06-24T13:28:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/shrunken-popeye"/>
+    <title>SHRUNKEN POPEYE</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/IMG_0460.jpg?v=1645140512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gregory Hergert</span></p>
+<div>5x7</div>
+<div>Acrylic &amp; Oil on Panel</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>monster</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600134390016</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600134455552</id>
+    <published>2021-06-24T13:28:47-07:00</published>
+    <updated>2021-06-24T13:28:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/shrunken-ren"/>
+    <title>SHRUNKEN REN</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/IMG_0462.jpg?v=1645140514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gregory Hergert</span></p>
+<div>5x7</div>
+<div>Acrylic &amp; Oil on Panel</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>monster</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600134455552</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600134488320</id>
+    <published>2021-06-24T13:28:39-07:00</published>
+    <updated>2021-06-24T13:28:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/shrunken-stimpy"/>
+    <title>SHRUNKEN STIMPY</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/IMG_0464.jpg?v=1645140514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gregory Hergert</span></p>
+<div>5x7</div>
+<div>Acrylic &amp; Oil on Panel</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>monster</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600134488320</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600134324480</id>
+    <published>2021-06-24T13:28:29-07:00</published>
+    <updated>2021-06-24T13:28:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/shrunken-homer"/>
+    <title>SHRUNKEN HOMER</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/IMG_0466.jpg?v=1645140509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gregory Hergert</span></p>
+<div>5x7</div>
+<div>Acrylic &amp; Oil on Panel</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>monster</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600134324480</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600134357248</id>
+    <published>2021-06-24T13:28:19-07:00</published>
+    <updated>2021-06-24T13:28:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/shrunken-lincoln"/>
+    <title>SHRUNKEN LINCOLN</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/IMG_0469.jpg?v=1645140509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gregory Hergert</span></p>
+<div>5x7</div>
+<div>Acrylic &amp; Oil on Panel</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>monster</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600134357248</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600129442048</id>
+    <published>2021-06-24T13:28:09-07:00</published>
+    <updated>2021-06-24T13:28:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/morticia"/>
+    <title>MORTICIA</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/IMG_0465.jpg?v=1645140408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gregory Hergert</span></p>
+<div>5x7</div>
+<div>Acrylic &amp; Oil on Panel</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>monster</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600129442048</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600134291712</id>
+    <published>2021-06-24T13:28:00-07:00</published>
+    <updated>2021-06-24T13:28:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/shrunken-che"/>
+    <title>SHRUNKEN CHE</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/IMG_0463.jpg?v=1645140508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gregory Hergert</span></p>
+<div>5x7</div>
+<div>Acrylic &amp; Oil on Panel</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>monster</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600134291712</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600141172992</id>
+    <published>2021-06-24T13:27:25-07:00</published>
+    <updated>2021-06-24T13:27:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/zombie-hunter"/>
+    <title>ZOMBIE HUNTER</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/IMG_0461.jpg?v=1645140676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gregory Hergert</span></p>
+<div>5x7</div>
+<div>Acrylic &amp; Oil on Panel</div>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>monster</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600141172992</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>
