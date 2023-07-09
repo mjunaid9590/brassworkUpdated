@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.brassworksannex.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.brassworksannex.com/collections/valley-of-she.atom"/>
+  <title>Brassworks Annex</title>
+  <updated>2021-06-23T16:17:34-07:00</updated>
+  <author>
+    <name>Brassworks Annex</name>
+  </author>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600119546112</id>
+    <published>2021-06-23T16:17:34-07:00</published>
+    <updated>2021-06-23T16:17:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/barbarella-print"/>
+    <title>BARBARELLA PRINT</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Image-5_b22c5669-6447-432f-be51-0458b647ac77.jpg?v=1645140146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Mental Ben</span></p>
+<div>13”x19”</div>
+<div>Signed &amp; Numbered Archival Print</div>
+<div>$65</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600119546112</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

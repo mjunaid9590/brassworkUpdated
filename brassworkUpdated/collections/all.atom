@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.brassworksannex.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.brassworksannex.com/collections/all.atom"/>
+  <title>Brassworks Annex</title>
+  <updated>2023-04-04T15:19:01-07:00</updated>
+  <author>
+    <name>Brassworks Annex</name>
+  </author>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174618247424</id>
+    <published>2023-04-04T15:19:01-07:00</published>
+    <updated>2023-04-04T15:19:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/reflection-tom-tucker"/>
+    <title>Reflection • Tom Tucker</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/TTucker_Reflection.jpg?v=1680805312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            265.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reflection<br data-mce-fragment="1">Acrylic on Panel<br data-mce-fragment="1">18” x 24”<br data-mce-fragment="1">$265<br>Tom Tucker<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174618247424</id>
+      <title>Default Title</title>
+      <s:price currency="USD">265.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174617067776</id>
+    <published>2023-04-04T15:18:40-07:00</published>
+    <updated>2023-04-04T15:18:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/roller-coaster-tom-tucker"/>
+    <title>Roller Coaster • Tom Tucker</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/TTucker_RollerCoaster.jpg?v=1680805346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            355.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roller Coaster<br data-mce-fragment="1">Acrylic, Mixed Media Collage on Canvas<br data-mce-fragment="1">18” x 24”<br data-mce-fragment="1">$355<br>Tom Tucker<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174617067776</id>
+      <title>Default Title</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174615298304</id>
+    <published>2023-04-04T15:18:05-07:00</published>
+    <updated>2023-04-04T15:18:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/thinker-tom-tucker"/>
+    <title>Thinker • Tom Tucker</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/TTucker_Thinker.jpg?v=1680805366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            355.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thinker<br data-mce-fragment="1">Acrylic, Mixed Media Collage on Panel<br data-mce-fragment="1">18” x 24”<br data-mce-fragment="1">$355<br>Tom Tucker<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174615298304</id>
+      <title>Default Title</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174613889280</id>
+    <published>2023-04-04T15:17:39-07:00</published>
+    <updated>2023-04-04T15:17:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/under-surveillance-tom-tucker"/>
+    <title>Under Surveillance • Tom Tucker</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/TTucker_UnderSurveillance.jpg?v=1680805392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            355.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Under Surveillance<br data-mce-fragment="1">Acrylic, Mixed Media Collage on Canvas<br data-mce-fragment="1">18” x 24”<br data-mce-fragment="1">$355<br>Tom Tucker<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174613889280</id>
+      <title>Default Title</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174612316416</id>
+    <published>2023-04-04T15:17:07-07:00</published>
+    <updated>2023-04-04T15:17:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/agrarian-geometry-tom-tucker"/>
+    <title>Agrarian Geometry • Tom Tucker</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/TTucker_AgrarianGeometry.jpg?v=1680805405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            355.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Agrarian Geometry<br data-mce-fragment="1">Acrylic on Canvas<br data-mce-fragment="1">18” x 24”<br data-mce-fragment="1">$355<br>Tom Tucker<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174612316416</id>
+      <title>Default Title</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174610776320</id>
+    <published>2023-04-04T15:16:39-07:00</published>
+    <updated>2023-04-04T15:16:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/untitled-9-tom-tucker"/>
+    <title>Untitled 9 • Tom Tucker</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/T-Tucker_Untitled_9.jpg?v=1680646604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Untitled 9<br data-mce-fragment="1">Acrylic and Spray Paint on Canvas<br data-mce-fragment="1">12” x 18”<br data-mce-fragment="1">$220<br>Tom Tucker<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174610776320</id>
+      <title>Default Title</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174609629440</id>
+    <published>2023-04-04T15:16:17-07:00</published>
+    <updated>2023-04-04T15:16:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/untitled-8-tom-tucker"/>
+    <title>Untitled 8 • Tom Tucker</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/T-Tucker_Untitled_8.jpg?v=1680646586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Untitled 8<br data-mce-fragment="1">Acrylic and Spray Paint on Canvas<br data-mce-fragment="1">12” x 18”<br data-mce-fragment="1">$220<br>Tom Tucker<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174609629440</id>
+      <title>Default Title</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174607237376</id>
+    <published>2023-04-04T15:15:32-07:00</published>
+    <updated>2023-04-04T15:15:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/untitled-7-tom-tucker"/>
+    <title>Untitled 7 • Tom Tucker</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/T-Tucker_Untitled_7.jpg?v=1680646553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Untitled 7<br data-mce-fragment="1">Acrylic and Spray Paint on Canvas<br data-mce-fragment="1">12” x 18”<br data-mce-fragment="1">$220<br>Tom Tucker<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174607237376</id>
+      <title>Default Title</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174576107776</id>
+    <published>2023-04-04T15:05:49-07:00</published>
+    <updated>2023-04-04T15:05:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/untitled-6-tom-tucker"/>
+    <title>Untitled 6 • Tom Tucker</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/TTucker_Untitled_6.jpg?v=1680805439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            355.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Untitled 6<br data-mce-fragment="1">Acrylic, Mixed Media Collage on Canvas<br data-mce-fragment="1">18” x 24”<br data-mce-fragment="1">$355<br>Tom Tucker<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174576107776</id>
+      <title>Default Title</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174574436608</id>
+    <published>2023-04-04T15:05:18-07:00</published>
+    <updated>2023-04-04T15:05:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/untitled-5-tom-tucker"/>
+    <title>Untitled 5 • Tom Tucker</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/TTucker_Untitled_5.jpg?v=1680805449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            235.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Untitled 5<br data-mce-fragment="1">Acrylic, Mixed Media Collage on Panel<br data-mce-fragment="1">16” x 20”<br data-mce-fragment="1">$235<br>Tom Tucker<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174574436608</id>
+      <title>Default Title</title>
+      <s:price currency="USD">235.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174572962048</id>
+    <published>2023-04-04T15:04:51-07:00</published>
+    <updated>2023-04-04T15:04:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/untitled-4-tom-tucker"/>
+    <title>Untitled 4 • Tom Tucker</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/TTucker_Untitled_4.jpg?v=1680805473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            365.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Untitled 4<br data-mce-fragment="1">Acrylic, Mixed Media Collage on Canvas<br data-mce-fragment="1">20” x 24”<br data-mce-fragment="1">$365<br>Tom Tucker<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174572962048</id>
+      <title>Default Title</title>
+      <s:price currency="USD">365.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174571454720</id>
+    <published>2023-04-04T15:04:26-07:00</published>
+    <updated>2023-04-04T15:04:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/untitled-3-tom-tucker"/>
+    <title>Untitled 3 • Tom Tucker</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/TTucker_Untitled_3.jpg?v=1680805491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            355.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Untitled 3<br data-mce-fragment="1">Acrylic on Canvas<br data-mce-fragment="1">18” x 24”<br data-mce-fragment="1">$355<br>Tom Tucker<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174571454720</id>
+      <title>Default Title</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174569685248</id>
+    <published>2023-04-04T15:03:59-07:00</published>
+    <updated>2023-04-04T15:03:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/untitled-2-tom-tucker"/>
+    <title>Untitled 2 • Tom Tucker</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/TTucker_Untitled_2.jpg?v=1680805507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            265.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Untitled 2<br data-mce-fragment="1">Acrylic<br data-mce-fragment="1">18” x 24”<br data-mce-fragment="1">$265<br>Tom Tucker<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174569685248</id>
+      <title>Default Title</title>
+      <s:price currency="USD">265.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174567719168</id>
+    <published>2023-04-04T15:03:22-07:00</published>
+    <updated>2023-04-04T15:03:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/untitled-1-tom-tucker"/>
+    <title>Untitled 1 • Tom Tucker</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/TTucker_Untitled_1.jpg?v=1680805529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            335.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Untitled 1<br>Acrylic, Mixed Media Collage<br>18” x 24”<br>$355<br>Tom Tucker<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174567719168</id>
+      <title>Default Title</title>
+      <s:price currency="USD">335.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174564081920</id>
+    <published>2023-04-04T15:02:12-07:00</published>
+    <updated>2023-04-04T15:02:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/morning-glory-too-tom-mattox"/>
+    <title>Morning Glory Too • Tom Mattox</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Mattox_MorningGloryToo.jpg?v=1680645747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Morning Glory Too<br data-mce-fragment="1">Acrylic on Canvas<br data-mce-fragment="1">14” x 11”<br data-mce-fragment="1">$195<br>Tom Mattox</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174564081920</id>
+      <title>Default Title</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174563197184</id>
+    <published>2023-04-04T15:01:53-07:00</published>
+    <updated>2023-04-04T15:01:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/remembrance-tom-mattox"/>
+    <title>Remembrance • Tom Mattox</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Mattox_Remembrance.jpg?v=1680645724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Remembrance<br data-mce-fragment="1">Acrylic on Canvas<br data-mce-fragment="1">9” x 12”<br data-mce-fragment="1">$175<br>Tom Mattox</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174563197184</id>
+      <title>Default Title</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174562050304</id>
+    <published>2023-04-04T15:01:32-07:00</published>
+    <updated>2023-04-04T15:01:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/uprising-tom-mattox"/>
+    <title>Uprising • Tom Mattox</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Mattox_Uprising.jpg?v=1680645707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uprising<br data-mce-fragment="1">Acrylic on Canvas<br data-mce-fragment="1">9” x 12”<br data-mce-fragment="1">$175<br>Tom Mattox</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174562050304</id>
+      <title>Default Title</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174560248064</id>
+    <published>2023-04-04T15:01:00-07:00</published>
+    <updated>2023-04-04T15:01:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/wave-tom-mattox"/>
+    <title>Wave • Tom Mattox</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Mattox_Wave.jpg?v=1680645675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wave<br data-mce-fragment="1">Acrylic on Canvas<br data-mce-fragment="1">12” x 9”<br data-mce-fragment="1">$175<br>Tom Mattox</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174560248064</id>
+      <title>Default Title</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174558576896</id>
+    <published>2023-04-04T15:00:26-07:00</published>
+    <updated>2023-04-04T15:00:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/discovery-tom-mattox"/>
+    <title>Discovery • Tom Mattox</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Mattox_Discovery.jpg?v=1680645650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Discovery<br data-mce-fragment="1">Acrylic on Canvas<br data-mce-fragment="1">12” x 9”<br data-mce-fragment="1">$175<br>Tom Mattox</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174558576896</id>
+      <title>Default Title</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174556610816</id>
+    <published>2023-04-04T14:59:49-07:00</published>
+    <updated>2023-04-04T14:59:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/by-the-river-tom-mattox"/>
+    <title>By The River • Tom Mattox</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Mattox_ByTheRiver.jpg?v=1680645600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>By The River<br data-mce-fragment="1">Acrylic on Canvas<br data-mce-fragment="1">10” x 10”<br data-mce-fragment="1">$175<br>Tom Mattox</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174556610816</id>
+      <title>Default Title</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174554415360</id>
+    <published>2023-04-04T14:59:19-07:00</published>
+    <updated>2023-04-04T14:59:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/diving-in-tom-mattox"/>
+    <title>Diving In • Tom Mattox</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Mattox_DivingIn.jpg?v=1680645570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Diving In<br data-mce-fragment="1">Acrylic on Canvas<br data-mce-fragment="1">22” x 28”<br data-mce-fragment="1">$390<br>Tom Mattox</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174554415360</id>
+      <title>Default Title</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174552056064</id>
+    <published>2023-04-04T14:58:43-07:00</published>
+    <updated>2023-04-04T14:58:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/green-dragon-dreams-tom-mattox"/>
+    <title>Green Dragon Dreams • Tom Mattox</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Mattox_GreenDragonDreams.jpg?v=1680645536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green Dragon Dreams<br data-mce-fragment="1">Acrylic on Canvas<br data-mce-fragment="1">36” x 24”<br data-mce-fragment="1">$390<br>Tom Mattox</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174552056064</id>
+      <title>Default Title</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174548812032</id>
+    <published>2023-04-04T14:57:52-07:00</published>
+    <updated>2023-04-04T14:57:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/kaleidoscope-2-tom-mattox"/>
+    <title>Kaleidoscope #2 • Tom Mattox</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Matt0x_Kaleidoscope_2.jpg?v=1680645481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            290.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kaleidoscope #2<br data-mce-fragment="1">Acrylic on Canvas<br data-mce-fragment="1">20” x 24”<br data-mce-fragment="1">$290<br>Tom Mattox</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174548812032</id>
+      <title>Default Title</title>
+      <s:price currency="USD">290.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174547042560</id>
+    <published>2023-04-04T14:57:23-07:00</published>
+    <updated>2023-04-04T14:57:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/kaleidoscope-1-tom-mattox"/>
+    <title>Kaleidoscope #1 • Tom Mattox</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Mattox_Kaleidoscope_1.jpg?v=1680645461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kaleidoscope #1<br data-mce-fragment="1">Acrylic on Canvas<br data-mce-fragment="1">16” x 20”<br data-mce-fragment="1">$225<br>Tom Mattox</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174547042560</id>
+      <title>Default Title</title>
+      <s:price currency="USD">225.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/8174543831296</id>
+    <published>2023-04-04T14:56:33-07:00</published>
+    <updated>2023-04-04T14:56:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/ancient-etchings-tom-mattox"/>
+    <title>Ancient Etchings • Tom Mattox</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Mattox_AncientEtchings.jpg?v=1680645406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            325.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ancient Etchings<br data-mce-fragment="1">Acrylic on Canvas<br data-mce-fragment="1">19.5” x 28”<br data-mce-fragment="1">$325<br>Tom Mattox</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/8174543831296</id>
+      <title>Default Title</title>
+      <s:price currency="USD">325.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

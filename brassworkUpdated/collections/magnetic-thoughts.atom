@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.brassworksannex.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.brassworksannex.com/collections/magnetic-thoughts.atom"/>
+  <title>Brassworks Annex</title>
+  <updated>2022-05-06T12:58:56-07:00</updated>
+  <author>
+    <name>Brassworks Annex</name>
+  </author>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738357842176</id>
+    <published>2022-05-06T12:58:56-07:00</published>
+    <updated>2022-05-06T12:58:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/violet-tears-gregory-hergert"/>
+    <title>Violet Tears • GREGORY HERGERT</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/GregoryHergert_VioletTears.jpg?v=1651867154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GREGORY HERGERT <br>Violet Tears <br>Acrylic and prismacolor on vellum <br>8.5" x 11" <br>$95.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738357842176</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738357547264</id>
+    <published>2022-05-06T12:58:27-07:00</published>
+    <updated>2022-05-06T12:58:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/ultramarine-tears-gregory-hergert"/>
+    <title>Ultramarine Tears • GREGORY HERGERT</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/GregoryHergert_Ultramarinetears.jpg?v=1651867120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GREGORY HERGERT <br>Ultramarine Tears <br>Acrylic and prismacolor on vellum <br>8.5" x 11" <br>$95.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738357547264</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738356039936</id>
+    <published>2022-05-06T12:57:20-07:00</published>
+    <updated>2022-05-06T12:57:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/cyan-tears-gregory-hergert"/>
+    <title>Cyan Tears • GREGORY HERGERT</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/GregoryHergert_CyanTears.jpg?v=1651867091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GREGORY HERGERT <br>Cyan Tears <br>Acrylic and prismacolor on vellum <br>8.5" x 11" <br>$95.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738356039936</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738355548416</id>
+    <published>2022-05-06T12:56:19-07:00</published>
+    <updated>2022-05-06T12:56:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/lean-on-justin-nickels"/>
+    <title>Lean On • JUSTIN NICKELS</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/JustinNickels_LeanOn.jpg?v=1651867012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            875.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>JUSTIN NICKELS <br>Lean On <br>Wood and Metal <br>42.5" x 12" x 10" <br>$875.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738355548416</id>
+      <title>Default Title</title>
+      <s:price currency="USD">875.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738354336000</id>
+    <published>2022-05-06T12:55:18-07:00</published>
+    <updated>2022-05-06T12:55:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/untitled-calm-1"/>
+    <title>Untitled • CALM</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Calm_Untitled_18x36_103d100d-22a7-4962-9978-32b638cd96be.jpg?v=1651866957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CALM <br>Untitled <br>Spray paint and acrylic on canvas <br>18" x 36" <br>$420.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738354336000</id>
+      <title>Default Title</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738353385728</id>
+    <published>2022-05-06T12:54:09-07:00</published>
+    <updated>2022-05-06T12:54:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/untitled-calm"/>
+    <title>Untitled • CALM</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Calm_Untitled_35x35_c45cedb0-cc8f-4032-a695-3723395b4b07.jpg?v=1651866889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">CALM <br>Untitled <br>Spray paint on canvas <br>35" x 35" <br>$450.00</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738353385728</id>
+      <title>Default Title</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738352337152</id>
+    <published>2022-05-06T12:53:11-07:00</published>
+    <updated>2022-05-06T12:53:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/haring-mad-one"/>
+    <title>Haring • MAD ONE</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/onemad1_Haring_24x48_83202232-ea4b-4671-acd2-49ccf41186e0.jpg?v=1651866812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MAD ONE <br>Haring <br>Mixed Media <br>24" x 48" <br>$900.00</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738352337152</id>
+      <title>Default Title</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738352140544</id>
+    <published>2022-05-06T12:52:32-07:00</published>
+    <updated>2022-05-06T12:52:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/warhola-mad-one"/>
+    <title>Warhola • MAD ONE</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/onemad1_Warhola_24x48_a57f2184-7364-488c-a39d-220033797726.jpg?v=1651866777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MAD ONE <br>Warhola <br>Mixed Media <br>24" x 48" <br>$900.00</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738352140544</id>
+      <title>Default Title</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738351059200</id>
+    <published>2022-05-06T12:51:43-07:00</published>
+    <updated>2022-05-06T12:51:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/basquiat-mad-one"/>
+    <title>Basquiat • MAD ONE</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/onemad1_Basquiat_24x48_e727d74c-4462-463e-b95b-b7ff0eccab86.jpg?v=1651866736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MAD ONE <br>Basquiat <br>Mixed Media <br>24" x 48" <br>$900.00</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738351059200</id>
+      <title>Default Title</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738350600448</id>
+    <published>2022-05-06T12:50:53-07:00</published>
+    <updated>2022-05-06T12:50:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/basquiat-color-mad-one"/>
+    <title>Basquiat Color • MAD ONE</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/onemad1_BasquiatColor_18x24_9d89993f-ccc2-43e6-ae07-cbaaa30e94af.jpg?v=1651866690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">MAD ONE <br>Basquiat Color <br>Spray paint, Acrylic <br>18" x 24" <br>$300.00 <br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738350600448</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738349617408</id>
+    <published>2022-05-06T12:49:39-07:00</published>
+    <updated>2022-05-06T12:49:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/endless-summer-kyra-leah"/>
+    <title>Endless Summer • KYRA LEAH</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/KyraLeah_EndlessSummer_10x20_985da7eb-82bd-4f62-97b0-885f3a5d5373.jpg?v=1651866624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">KYRA LEAH <br>Endless Summer <br>Oil on canvas <br>10" x 20" <br>$500.00</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738349617408</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738348241152</id>
+    <published>2022-05-06T12:48:15-07:00</published>
+    <updated>2022-05-06T12:48:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/madrone-kelli-macconnell"/>
+    <title>Madrone • KELLI MACCONNELL</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/KelliMacconnell_Madrone_23x63_365fd19f-30a6-40e0-b09b-8dbd7bcf8635.jpg?v=1651866550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">KELLI MACCONNELL <br>Madrone <br>Linocut <br>23" x 63" <br>$1,600.00</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738348241152</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738347356416</id>
+    <published>2022-05-06T12:47:18-07:00</published>
+    <updated>2022-05-06T12:47:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/practice-825-lambtown"/>
+    <title>practice 825 • LAMBTOWN</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Lambtown_Pactice825.jpg?v=1651866454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LAMBTOWN <br>practice 825 <br>Spray paint, stencil on salvaged vinyl <br>12" <br>$100</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738347356416</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738346766592</id>
+    <published>2022-05-06T12:46:25-07:00</published>
+    <updated>2022-05-06T12:46:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/practice-824-lambtown"/>
+    <title>practice 824 • LAMBTOWN</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Lambtown_Pactice824.jpg?v=1651866407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LAMBTOWN <br>practice 824 <br>Spray paint, stencil on salvaged vinyl <br>12" <br>$100</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738346766592</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738345423104</id>
+    <published>2022-05-06T12:45:07-07:00</published>
+    <updated>2022-05-06T12:45:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/practice-823-lambtown"/>
+    <title>practice 823 • LAMBTOWN</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Lambtown_Pactice823.jpg?v=1651866347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LAMBTOWN <br>practice 823 <br>Spray paint, stencil on salvaged vinyl <br>12" <br>$100</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738345423104</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738344243456</id>
+    <published>2022-05-06T12:43:49-07:00</published>
+    <updated>2022-05-06T12:43:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/practice-256-lambtown"/>
+    <title>practice 256 • LAMBTOWN</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Lambtown_Pactice256.jpg?v=1651866264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">LAMBTOWN <br>practice 256 <br>Spray paint, stencil on board <br>18" x 24" <br>$400.00</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738344243456</id>
+      <title>Default Title</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738331201792</id>
+    <published>2022-05-06T12:30:02-07:00</published>
+    <updated>2022-05-06T12:30:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/lift-off-voxx-romana"/>
+    <title>Lift Off  • VOXX ROMANA</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/VoxxRomana_LiftOff.jpg?v=1651866207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VOXX ROMANA <br>Lift Off   <br>Original spray paint on wood panel <br>24" X 36" <br>$900</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738331201792</id>
+      <title>Default Title</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738330677504</id>
+    <published>2022-05-06T12:29:21-07:00</published>
+    <updated>2022-05-06T12:29:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/fruit-police-yellow-v4-voxx-romana"/>
+    <title>Fruit Police - Yellow V4 • VOXX ROMANA</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/VoxxRomana_FruitPoliceYellow.jpg?v=1651865382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            325.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VOXX ROMANA <br>Fruit Police - Yellow V4 <br>Original stencil on wood panel <br>12" X 24" <br>$325.00</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738330677504</id>
+      <title>Default Title</title>
+      <s:price currency="USD">325.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738329432320</id>
+    <published>2022-05-06T12:28:27-07:00</published>
+    <updated>2022-05-06T12:28:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/fruit-police-red-v3-voxx-romana"/>
+    <title>Fruit Police - Red V3 • VOXX ROMANA</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/VoxxRomana_FruitPoliceRed.jpg?v=1651865346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            325.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">VOXX ROMANA <br>Fruit Police - Red V3 <br>Original stencil on wood panel <br>12" X 24" <br>$325.00</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738329432320</id>
+      <title>Default Title</title>
+      <s:price currency="USD">325.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738329104640</id>
+    <published>2022-05-06T12:27:40-07:00</published>
+    <updated>2022-05-06T12:27:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/pasting-pals-rx-skulls"/>
+    <title>Pasting Pals • RX SKULLS</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/RXSkulls_PastingPals.jpg?v=1651865282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RX SKULLS <br>Pasting Pals <br>Multi layer screen prints, acrylic inks, handprinted <br>12.5" x 18.5" <br>$85.00</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738329104640</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738327302400</id>
+    <published>2022-05-06T12:27:03-07:00</published>
+    <updated>2022-05-06T12:27:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/theatre-mates-rx-skulls"/>
+    <title>Theatre Mates • RX SKULLS</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/RXSkulls_TheaterMates.jpg?v=1651865243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RX SKULLS <br>Theatre Mates <br>Multi layer screen prints, acrylic inks, handprinted <br>12.5" x 18.5" <br>$85.00</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738327302400</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738326548736</id>
+    <published>2022-05-06T12:26:07-07:00</published>
+    <updated>2022-05-06T12:26:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/diy-or-die-rx-skulls"/>
+    <title>DIY or DIE • RX SKULLS</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/RXSkulls_DIYorDie.jpg?v=1651865200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RX SKULLS <br>DIY or DIE <br>Multi layer screen prints, acrylic inks, handprinted <br>12.5" x 18.5" <br>$85.00</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738326548736</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738325434624</id>
+    <published>2022-05-06T12:25:11-07:00</published>
+    <updated>2022-05-06T12:25:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/kursed-rong"/>
+    <title>Kursed • RONG</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/IMG_8007.heic?v=1651874682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RONG <br>Kursed <br>Spray paint, Acrylic <br>18" x 24" <br>$300</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738325434624</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738324484352</id>
+    <published>2022-05-06T12:24:14-07:00</published>
+    <updated>2022-05-06T12:24:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/first-48-rong"/>
+    <title>First 48 • RONG</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Rong_First48_24x12_950259c4-4fb5-4981-8e93-766f10bd7382.jpg?v=1651865085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RONG <br>Selftitled <br>Acrylic on canvas <br>24" x 12" <br>$125</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738324484352</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7738324156672</id>
+    <published>2022-05-06T12:23:12-07:00</published>
+    <updated>2022-05-06T12:23:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/sweetdreams-rong"/>
+    <title>Sweetdreams • RONG</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Rong_SweetDreams_17x24_e5290323-dbd2-4d0e-b44d-77e32813cb9d.jpg?v=1651865032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">RONG <br>Sweetdreams <br>Spray paint, Acrylic <br>18" x 24" <br>$250</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7738324156672</id>
+      <title>Default Title</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.brassworksannex.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.brassworksannex.com/collections/urban-aesop.atom"/>
+  <title>Brassworks Annex</title>
+  <updated>2021-05-07T18:16:37-07:00</updated>
+  <author>
+    <name>Brassworks Annex</name>
+  </author>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600137535744</id>
+    <published>2021-05-07T18:16:37-07:00</published>
+    <updated>2021-05-07T18:16:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-lamb-and-the-wolf"/>
+    <title>The Lamb and the Wolf</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/image_35655bb9-553f-405b-85b1-1351bea10a92.jpg?v=1645140589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font_7">Nathalie Tierce</p>
+<meta charset="UTF-8">
+<div class="gmail_default"><b>The Lamb and the Wolf </b></div>
+<div class="gmail_default">40" x 40"</div>
+<div class="gmail_default">Mixed media (acrylic paint and oil stick) on canvas with textured gesso</div>
+<div class="gmail_default" dir="auto">$5000</div>
+<p class="font_7"> </p>
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@nathalietierce</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600137535744</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600140517632</id>
+    <published>2021-05-05T15:14:37-07:00</published>
+    <updated>2021-05-05T15:14:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/voodoo"/>
+    <title>Voodoo • Josh Keyes</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/IMG_9868.jpg?v=1645140666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Josh Keyes</p>
+<p>Voodoo</p>
+<p>12”x12”<br></p>
+<p>Acrylic on birch panel<br></p>
+<p>$4,000.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@joshkeyes.art</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600140517632</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600138682624</id>
+    <published>2021-05-05T15:14:37-07:00</published>
+    <updated>2021-05-05T15:14:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-wolf-the-lamb"/>
+    <title>The Wolf &amp; the Lamb • Armando Veve</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/veve.jpg?v=1645140628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div>
+<div>Armando Veve</div>
+<div></div>
+<div>"The Wolf &amp; the Lamb"</div>
+<div></div>
+<div>11x14</div>
+<div></div>
+<div>graphite, colored pencil, watercolor, ink on paper</div>
+</div>
+<div></div>
+<div>$750</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@armandoveve</s:tag>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>Urban Aesop</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600138682624</id>
+      <title>Default Title</title>
+      <s:price currency="USD">750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600141861120</id>
+    <published>2021-05-05T15:14:36-07:00</published>
+    <updated>2021-05-05T15:14:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/assume-you-re-being-watched"/>
+    <title>Assume You’re Being Watched • Voxx Romana</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Voxx-Romana_3-AssumeYoureBeingWatched_TheEagleandTheArrow_web.jpg?v=1645140716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Voxx Romana<br>Assume You’re Being Watched<br></p>
+<p>18x24”in<br><br>Giclée print on Canvas<br><br>$250.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>@voxxromana</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600141861120</id>
+      <title>Default Title</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600138027264</id>
+    <published>2021-05-05T15:14:36-07:00</published>
+    <updated>2021-05-05T15:14:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-power-of-love"/>
+    <title>The Power Of Love • Voxx Romana</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Voxx-Romana_2-The-Power-Of-Love_The-4-Oxen-and-the-Lion_web.jpg?v=1645140594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Voxx Romana<br><br>The Power Of Love</p>
+<p><br>18x24”in<br><br>Giclée print on Canvas<br><br>$250.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>@voxxromana</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600138027264</id>
+      <title>Default Title</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600137765120</id>
+    <published>2021-05-05T15:14:36-07:00</published>
+    <updated>2021-05-05T15:14:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-old-man-and-death"/>
+    <title>The Old Man and Death • Tim Lee</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Tim-Lee_Old-Man-and-Death_web.jpg?v=1645140591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tim Lee<br><br>The Old Man and Death<br><br>16 x 20 in.<br><br>oil painting on wood panel<br><br>1000<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@tim_lee_rabbitrunstudios</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600137765120</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600134029568</id>
+    <published>2021-05-05T15:14:36-07:00</published>
+    <updated>2021-05-05T15:14:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/save-the-planet"/>
+    <title>Save the Planet • Voxx Romana</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Voxx-Romana_4-SavethePlanet_HerculesandTheWagoner_web.jpg?v=1645140503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Voxx Romana</p>
+<p><br>Save the Planet<br></p>
+<p>18x24”in<br><br>Giclée print on Canvas<br><br>$250.00</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>@voxxromana</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600134029568</id>
+      <title>Default Title</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600125870336</id>
+    <published>2021-05-05T15:14:36-07:00</published>
+    <updated>2021-05-05T15:14:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/health-care-for-all"/>
+    <title>Health Care For All • Voxx Romana</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Voxx-Romana_1-HealthCareForAll_TheMiser_web.jpg?v=1645140326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Voxx Romana<br><br>Health Care For All <br><br>18x24”in<br><br>Giclée print on Canvas<br><br>$250.00</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>@voxxromana</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600125870336</id>
+      <title>Default Title</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600139370752</id>
+    <published>2021-05-05T15:14:35-07:00</published>
+    <updated>2021-05-05T15:14:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/two-dudes-in-the-wasteland"/>
+    <title>Two Dudes In The Wasteland • Simon Griffiths</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Simon-Griffiths_2-Two-Dudes-in-the-Wasteland_web.jpg?v=1645140636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            330.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Simon Griffiths<br><br>‘Two Dudes In The Wasteland’ <br data-mce-fragment="1"><br data-mce-fragment="1">Acrylic on canvas board<br data-mce-fragment="1"><br data-mce-fragment="1">12 inch diameter <br data-mce-fragment="1"><br data-mce-fragment="1">$330 USD<br data-mce-fragment="1"><br data-mce-fragment="1">From ‘The Swallow and the Crow.'<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@simongriffithsart</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600139370752</id>
+      <title>Default Title</title>
+      <s:price currency="USD">330.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600137863424</id>
+    <published>2021-05-05T15:14:35-07:00</published>
+    <updated>2021-05-05T15:14:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-owl-and-the-grasshopper"/>
+    <title>The Owl and the Grasshopper • Thomas Webb</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Thomas-Webb_2-Owl-and-Grasshopper_web.jpg?v=1645140592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Thomas Webb<br><br>The Owl and the Grasshopper<br data-mce-fragment="1"><br data-mce-fragment="1">14" x 11" <br data-mce-fragment="1"><br data-mce-fragment="1">Gouache, Ink and Acrylic<br data-mce-fragment="1"><br data-mce-fragment="1">$500<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>@webbitup</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600137863424</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600137044224</id>
+    <published>2021-05-05T15:14:35-07:00</published>
+    <updated>2021-05-05T15:14:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-fox-and-the-grapes"/>
+    <title>The Fox and the Grapes • Thomas Webb</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Thomas-Webb_1-Fox-and-Grapes_web.jpg?v=1645140582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thomas Webb<br><br>The Fox and the Grapes<br><br><span data-mce-fragment="1">12x24</span></p>
+<p><span data-mce-fragment="1">Gouache and Ink on Birch Panel</span></p>
+<p><span data-mce-fragment="1">$700</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>@webbitup</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600137044224</id>
+      <title>Default Title</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600136749312</id>
+    <published>2021-05-05T15:14:35-07:00</published>
+    <updated>2021-05-05T15:14:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-circus-is-in-town"/>
+    <title>The Circus Is In Town • Simon Griffiths</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Simon-Griffiths_3-The-Circus-is-in-Town_web.jpg?v=1645140578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            330.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Simon Griffiths<br><br>'The Circus Is In Town’<br data-mce-fragment="1"><br data-mce-fragment="1">Acrylic on canvas board <br data-mce-fragment="1"><br data-mce-fragment="1">12 x 10 in. <br data-mce-fragment="1"><br data-mce-fragment="1">$330 USD<br data-mce-fragment="1"><br data-mce-fragment="1">From: 'The Astrologer'<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@simongriffithsart</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600136749312</id>
+      <title>Default Title</title>
+      <s:price currency="USD">330.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600137896192</id>
+    <published>2021-05-05T15:14:34-07:00</published>
+    <updated>2021-05-05T15:14:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-peacock-and-the-magpie"/>
+    <title>The Peacock and the Magpie • Scott Brooks</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/scott-brooks_peacock-and-magpie_web.jpg?v=1645140593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Scott Brooks<br><br><br>The Peacock and the Magpie<br><br>Mixed media on canvas<br><br>16" x 16"<br><br>$2400</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@scottgbrooksart</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600137896192</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600137175296</id>
+    <published>2021-05-05T15:14:34-07:00</published>
+    <updated>2021-05-05T15:14:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-get-outta-towners"/>
+    <title>The Get-Outta-Towners • Rob Boyle</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/RobBoyle_Birds-Beasts-and-Bats_The-Get-Outta-Towners_WEB.jpg?v=1645140583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rob Boyle<br><br>The Get-Outta-Towners<br><br>16” x 20”<br><br>acrylic and Oil/alkyd on canvas panel<br><br>1700</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@robboyleart</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600137175296</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600127279360</id>
+    <published>2021-05-05T15:14:34-07:00</published>
+    <updated>2021-05-05T15:14:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-wolf-in-sheep-s-clothing"/>
+    <title>Karma Ritual • Peca</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Peca_Wolf-in-Sheeps-Clothing_Karma-Ritual_WEB.jpg?v=1645140366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Peca<br data-mce-fragment="1"><br data-mce-fragment="1">Karma Ritual <br data-mce-fragment="1"><br data-mce-fragment="1">The Wolf in Sheep’s Clothing <br data-mce-fragment="1"><br data-mce-fragment="1">oil on linen <br data-mce-fragment="1"><br data-mce-fragment="1">31,5” x 25,6” plus frame <br data-mce-fragment="1"><br data-mce-fragment="1">80cm x 65cm plus frame <br data-mce-fragment="1"><br data-mce-fragment="1">$6000</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@peca.art</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600127279360</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600118694144</id>
+    <published>2021-05-05T15:14:34-07:00</published>
+    <updated>2021-05-05T15:14:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/amongst-friends"/>
+    <title>Amongst Friends • Simon Griffiths</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Simon-Griffiths_1-Amongst-Friends_web.jpg?v=1645140123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            330.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Simon Griffiths<br><br>Amongst Friends<br><br>Acrylic on canvas board <br><br>12 inch diameter <br><br>$330 USD<br><br>From: ‘The Lamb and The Wolf’</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@simongriffithsart</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600118694144</id>
+      <title>Default Title</title>
+      <s:price currency="USD">330.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600138813696</id>
+    <published>2021-05-05T15:14:33-07:00</published>
+    <updated>2021-05-05T15:14:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-wolf-in-sheep-s-clothing-lobo-con-piel-de-cordero"/>
+    <title>The Wolf in Sheep’s Clothing (Lobo con piel de cordero) • Luciano Sanchez</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Luciano_Sanchez_Wolf-in-Sheeps-Clothing_WEB.jpg?v=1645140631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2730.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font_7">Luciano Sanchez</p>
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<div title="Page 1" class="page">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div title="Page 7" class="page">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>The Wolf in Sheep’s Clothing </span></p>
+<p><span>(Lobo con piel de cordero)</span></p>
+<p><span>Oil in Canvas</span></p>
+<p><span>24x20 </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<p> $2730</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@lucianosanchezart</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600138813696</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2730.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600138748160</id>
+    <published>2021-05-05T15:14:33-07:00</published>
+    <updated>2021-05-05T15:14:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-wolf-in-sheeps-clothing"/>
+    <title>The Wolf in Sheep&apos;s Clothing • Nathalie Tierce</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Nathalie-Tierce_3-Wolf-in-Sheeps-Clothing_WEB.jpg?v=1645140631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font_7">Nathalie Tierce<br><br>"The Wolf in Sheep's Clothing"</p>
+<p class="font_7"><br data-mce-fragment="1">19.75" x 19.75" <br data-mce-fragment="1"></p>
+<p class="font_7">Mixed media; acrylic paint and pastel on 140 lb. Arches watercolor paper<br data-mce-fragment="1"></p>
+<p class="font_7">$900<br></p>
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@nathalietierce</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600138748160</id>
+      <title>Default Title</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600137404672</id>
+    <published>2021-05-05T15:14:33-07:00</published>
+    <updated>2021-05-05T15:14:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-hare-the-tortoise-la-liebre-y-la-tortuga"/>
+    <title>The Hare &amp; the Tortoise (La liebre y la tortuga) • Luciano Sanchez</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Luciano_Sanchez_Hare-the-Tortoise_WEB.jpg?v=1645140588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2730.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font_7">Luciano Sanchez</p>
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<div title="Page 1" class="page">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>The Hare &amp; the Tortoise (La liebre y la tortuga)<meta charset="UTF-8"></p>
+<p><span>Oil in Canvas</span></p>
+<p><span>24x20 </span></p>
+<p><span>$2730</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<p> </p>
+<p> </p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@lucianosanchezart</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600137404672</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2730.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600137076992</id>
+    <published>2021-05-05T15:14:33-07:00</published>
+    <updated>2021-05-05T15:14:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-fox-and-the-mosquitoes"/>
+    <title>The Fox and The Mosquitoes • Nathalie Tierce</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Nathalie-Tierce_2-Fox-and-the-Mosquitoes_WEB.jpg?v=1645140582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font_7">Nathalie Tierce<br><br>"The Fox and The Mosquitoes"<br data-mce-fragment="1">42" x 42" <br data-mce-fragment="1">Mixed media; acrylic paint and pastel on 140 lb. Arches watercolor paper<br data-mce-fragment="1">$5000<br></p>
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@nathalietierce</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600137076992</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600136847616</id>
+    <published>2021-05-05T15:14:33-07:00</published>
+    <updated>2021-05-05T15:14:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-crow-and-the-sparrow"/>
+    <title>The Crow and The Sparrow • Nathalie Tierce</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Nathalie-Tierce_1-Crow-and-the-Sparrow_WEB.jpg?v=1645140579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font_7">Nathalie Tierce<br><br>The Crow and The Sparrow"<br>40" x 40" <br>Acrylic on stretched canvas<br>$5000</p>
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@nathalietierce</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600136847616</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600142450944</id>
+    <published>2021-05-05T15:14:32-07:00</published>
+    <updated>2021-05-05T15:14:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/charlie-26"/>
+    <title>Charlie 26 • Lola Dupre</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Lola_Dupre_02-Charlie_WEB.jpg?v=1645140729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font_7">Lola Dupre<br></p>
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<p><span>Charlie 26<br></span></p>
+</div>
+</div>
+</div>
+<p>8.2 x 11.6 inches<br></p>
+</div>
+</div>
+</div>
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<p><span>Paper collage</span></p>
+<p><span>$500</span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@loladupre</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600142450944</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600137797888</id>
+    <published>2021-05-05T15:14:32-07:00</published>
+    <updated>2021-05-05T15:14:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-one-eyed-doe-la-cierva-tuerta"/>
+    <title>The One-Eyed Doe (La cierva tuerta) • Luciano Sanchez</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Luciano_Sanchez_The-One-Eyed-Doe_WEB.jpg?v=1645140592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2730.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font_7">Luciano Sanchez</p>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 1">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>The One-Eyed Doe (La cierva tuerta)<meta charset="UTF-8"></span></p>
+<p><span>Oil in Canvas</span></p>
+<p><span>24x20 </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p>$2730 </p>
+<p> </p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@lucianosanchezart</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600137797888</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2730.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600137371904</id>
+    <published>2021-05-05T15:14:32-07:00</published>
+    <updated>2021-05-05T15:14:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-goose-that-laid-the-golden-eggs-la-gansa-de-los-huevos-de-oro"/>
+    <title>The Goose that Laid the Golden Eggs (La gansa de los huevos de oro) • Luciano Sanchez</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Luciano_Sanchez_The-Goose-That-Laid-the-Golden-Eggs_WEB.jpg?v=1645140587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2730.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font_7">Luciano Sanchez</p>
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<div title="Page 1" class="page">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>The Goose that Laid the Golden Eggs </span></p>
+<p><span>(La gansa de los huevos de oro)<meta charset="UTF-8"></span></p>
+<p><span>Oil in Canvas</span></p>
+<p><span>24x20 </span></p>
+<p><span>$2730</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<p> </p>
+<p> </p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@lucianosanchezart</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600137371904</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2730.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600130982144</id>
+    <published>2021-05-05T15:14:32-07:00</published>
+    <updated>2021-05-05T15:14:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/posy"/>
+    <title>Posy • Lola Dupre</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Lola_Dupre_01-Posy_WEB.jpg?v=1645140457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="font_7">Lola Dupre<br></p>
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<p><span>Posy<br></span></p>
+</div>
+</div>
+</div>
+<div title="Page 1" class="page">
+<div class="layoutArea">
+<div class="column">
+<p><span>8.2 x 11.6 inches</span></p>
+<p><span>Paper collage</span></p>
+<p><span>$500</span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>@brassworsgallery</s:tag>
+    <s:tag>@loladupre</s:tag>
+    <s:tag>@urbanaesop</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600130982144</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

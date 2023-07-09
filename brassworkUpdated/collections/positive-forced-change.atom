@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.brassworksannex.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.brassworksannex.com/collections/positive-forced-change.atom"/>
+  <title>Brassworks Annex</title>
+  <updated>2022-10-07T10:00:12-07:00</updated>
+  <author>
+    <name>Brassworks Annex</name>
+  </author>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984079405312</id>
+    <published>2022-10-07T10:00:12-07:00</published>
+    <updated>2022-10-07T10:00:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/stacked-cats-melissa-monroe"/>
+    <title>Stacked Cats • Melissa Monroe</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/MelissaMonroe_stackedcats.jpg?v=1664916344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stacked Cats</p>
+<p>Tufted wool yarn</p>
+<p>26" x 26"</p>
+<p>$900.00</p>
+<p>Melissa Monroe</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984079405312</id>
+      <title>Default Title</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984077996288</id>
+    <published>2022-10-07T10:00:12-07:00</published>
+    <updated>2022-10-07T10:00:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/fashion-collage-melissa-monroe"/>
+    <title>Fashion Collage • Melissa Monroe</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/MelissaJones_fashioncollage.jpg?v=1664916301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fashion Collage</p>
+<p>Tufted wool yarn</p>
+<p>23" x 38"</p>
+<p>$1,200.00</p>
+<p>Melissa Monroe</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984077996288</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984074817792</id>
+    <published>2022-10-07T10:00:12-07:00</published>
+    <updated>2022-10-07T10:00:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/broken-memories-melissa-monroe"/>
+    <title>Broken Memories • Melissa Monroe</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/MelissaMonroe_brokenmemories.jpg?v=1664916230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Broken Memories</p>
+<p>Tufted wool yarn</p>
+<p>34" x 33"</p>
+<p>$900.00</p>
+<p>Melissa Monroe</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984074817792</id>
+      <title>Default Title</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984072720640</id>
+    <published>2022-10-07T10:00:11-07:00</published>
+    <updated>2022-10-07T10:00:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/shaped-by-mistake-melissa-monroe"/>
+    <title>Shaped by Mistake • Melissa Monroe</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/MelissaMonroe_shapedbymistake.jpg?v=1664916194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shaped by Mistake</p>
+<p>Tufted wool yarn</p>
+<p>27" x 38"</p>
+<p>$1,200.00</p>
+<p>Melissa Monroe</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984072720640</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984069574912</id>
+    <published>2022-10-07T10:00:11-07:00</published>
+    <updated>2022-10-07T10:00:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/sail-away-carry-on-melissa-monroe"/>
+    <title>Sail away, Carry on • Melissa Monroe</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/MelissaMonroe_sailaway_carryon.jpg?v=1664916151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hiding behind safe Objects</p>
+<p>Tufted wool yarn</p>
+<p>21" x 30"</p>
+<p>$850.00</p>
+<p>Melissa Monroe</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984069574912</id>
+      <title>Default Title</title>
+      <s:price currency="USD">850.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984067215616</id>
+    <published>2022-10-07T10:00:11-07:00</published>
+    <updated>2022-10-07T10:00:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/hiding-behind-safe-objects-melissa-monroe"/>
+    <title>Hiding behind safe Objects • Melissa Monroe</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/MelissaMonroe_hidngbehindsafeobjects.jpg?v=1664916101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hiding behind safe Objects</p>
+<p>Acrylic on wood panel</p>
+<p>30" x30"</p>
+<p>$1,000.00</p>
+<p>Melissa Monroe</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984067215616</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984064299264</id>
+    <published>2022-10-07T10:00:11-07:00</published>
+    <updated>2022-10-07T10:00:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/recognizing-my-own-shadow-melissa-monroe"/>
+    <title>Recognizing my own shadow • Melissa Monroe</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/MelissaMonroe_recognizingmyownshadow.jpg?v=1664916059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Recognizing my own shadow</p>
+<p>Acrylic on wood panel</p>
+<p>12" x 10"</p>
+<p>$550.00</p>
+<p>Melissa Monroe</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984064299264</id>
+      <title>Default Title</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984061579520</id>
+    <published>2022-10-07T10:00:10-07:00</published>
+    <updated>2022-10-07T10:00:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/holding-dreams-under-water-melissa-monroe"/>
+    <title>Holding Dreams Under Water • Melissa Monroe</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/MelissaMonroe_holdingdreamsunderwater.jpg?v=1664916012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Holding Dreams Under Water</p>
+<p>Acrylic on wood panel</p>
+<p>24" x 30"</p>
+<p>$900.00</p>
+<p>Melissa Monroe</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984061579520</id>
+      <title>Default Title</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984059318528</id>
+    <published>2022-10-07T10:00:10-07:00</published>
+    <updated>2022-10-07T10:00:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/rustic-birds-in-the-city-jeanne-steffan"/>
+    <title>Rustic Birds in the City • Jeanne Steffan</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/JeanneSteffan_RusticBirdsintheCity15_x30_e3b746d0-d061-45f0-a0f8-99f4e69481fb.jpg?v=1664915943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Noh Mask (Sakura)</p>
+<p>acrylic/canvas</p>
+<p>15" x 30"</p>
+<p>$450.00</p>
+<p>Jeanne Steffan</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984059318528</id>
+      <title>Default Title</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984058269952</id>
+    <published>2022-10-07T10:00:10-07:00</published>
+    <updated>2022-10-07T10:00:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/noh-mask-sakura-jeanne-steffan"/>
+    <title>Noh Mask (Sakura) • Jeanne Steffan</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/JeanneSteffan_NohMask9Sakura_24_x18_1297bdf1-0e3c-418f-9b93-731608e3b524.jpg?v=1664915913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Noh Mask (Sakura)</p>
+<p>acrylic/canvas</p>
+<p>24" x 18"</p>
+<p>$500.00</p>
+<p>Jeanne Steffan</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984058269952</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984056926464</id>
+    <published>2022-10-07T10:00:09-07:00</published>
+    <updated>2022-10-07T10:00:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/noh-mask-breathing-jeanne-steffan"/>
+    <title>Noh Mask (breathing) • Jeanne Steffan</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/JeanneSteffan_NohMask_Breathing_24_x18_0fc0748d-e3e5-4b4f-aee7-ba946f6ae201.jpg?v=1664915875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Noh Mask (breathing)</p>
+<p>acrylic/canvas</p>
+<p>24" x 18"</p>
+<p>$500.00</p>
+<p>Jeanne Steffan</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984056926464</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984054206720</id>
+    <published>2022-10-07T10:00:09-07:00</published>
+    <updated>2022-10-07T10:00:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/love-germs-1-jeanne-steffan"/>
+    <title>Love Germs 1 • Jeanne Steffan</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/JeanneSteffan_LoveGerms124_x18_c099ed51-9d02-4e97-a2fc-f31774edc1ba.jpg?v=1664915827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Love Germs 1</p>
+<p>acrylic/canvas</p>
+<p>24" x 18"</p>
+<p>$500.00</p>
+<p>Jeanne Steffan</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984054206720</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984051781888</id>
+    <published>2022-10-07T10:00:09-07:00</published>
+    <updated>2022-10-07T10:00:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/carved-buddha-jeanne-steffan"/>
+    <title>Carved Buddha • Jeanne Steffan</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/JeanneSteffan_CarvedBuddha14_cx11.jpg?v=1664915785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carved Buddha</p>
+<p>acrylic/canvas</p>
+<p>14” x 11”</p>
+<p>$300.00</p>
+<p>Jeanne Steffan</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984051781888</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984048865536</id>
+    <published>2022-10-07T10:00:08-07:00</published>
+    <updated>2022-10-07T10:00:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/lost-and-found-jeanne-steffan"/>
+    <title>Lost and Found • Jeanne Steffan</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/JeanneSteffan_LostandFound40_x30_ebc4a8a4-b5c5-4bd6-a1a0-dca84a404fc8.jpg?v=1664915736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lost and Found</p>
+<p>acrylic/canvas</p>
+<p>40" x 30"</p>
+<p>$800.00</p>
+<p>Jeanne Steffan</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984048865536</id>
+      <title>Default Title</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984045981952</id>
+    <published>2022-10-07T10:00:08-07:00</published>
+    <updated>2022-10-07T10:00:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/tiki-date-night-jeanne-steffan"/>
+    <title>Tiki Date Night • Jeanne Steffan</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/JeanneSteffan_TikiDateNight24_x18_a56a5b4f-7ba7-41c2-b521-97a9f4fbb79e.jpg?v=1664915664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tiki Date Night</p>
+<p>acrylic/canvas</p>
+<p>24” x 18”</p>
+<p>$500.00</p>
+<p>Jeanne Steffan</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984045981952</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984043065600</id>
+    <published>2022-10-07T10:00:08-07:00</published>
+    <updated>2022-10-07T10:00:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/when-you-give-someone-else-your-feathers-wynter-jones"/>
+    <title>When you give someone else your feathers • Wynter Jones</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/WynterJones_Whenyougivesomeoneelseyourfeathers.jpg?v=1664915602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When you give someone else your feathers</p>
+<p>Pen and Paper</p>
+<p>7" x 10"</p>
+<p>$150.00</p>
+<p>Wynter Jones</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984043065600</id>
+      <title>Default Title</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984041328896</id>
+    <published>2022-10-07T10:00:08-07:00</published>
+    <updated>2022-10-07T10:00:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/tales-of-glory-wynter-jones"/>
+    <title>Tales of Glory • Wynter Jones</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/WynterJones_Talesofglory.jpg?v=1664915556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tales of Glory</p>
+<p>Pen and Paper</p>
+<p>9" x 12"</p>
+<p>$250.00</p>
+<p>Wynter Jones</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984041328896</id>
+      <title>Default Title</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984038969600</id>
+    <published>2022-10-07T10:00:07-07:00</published>
+    <updated>2022-10-07T10:00:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/seeds-of-doubt-wynter-jones"/>
+    <title>Seeds of doubt • Wynter Jones</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/WynterJones_Seedsofdoubt.jpg?v=1664915510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Seeds of doubt</p>
+<p>Watercolor on clayboard</p>
+<p>6" x 6"</p>
+<p>$250.00</p>
+<p>Wynter Jones</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984038969600</id>
+      <title>Default Title</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984036741376</id>
+    <published>2022-10-07T10:00:07-07:00</published>
+    <updated>2022-10-07T10:00:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/adorning-a-cage-wynter-jones"/>
+    <title>Adorning a cage • Wynter Jones</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/WynterJones_Adorningacage.jpg?v=1664915445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Adorning a cage</p>
+<p>Watercolor on clayboard</p>
+<p>6” x 18”</p>
+<p>$800.00</p>
+<p>Wynter Jones</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984036741376</id>
+      <title>Default Title</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984033497344</id>
+    <published>2022-10-07T10:00:07-07:00</published>
+    <updated>2022-10-07T10:00:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/roots-of-a-blue-spruce-wynter-jones"/>
+    <title>Roots of a blue spruce • Wynter Jones</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/WynterJones_Rootsofabluespruce.jpg?v=1664915333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roots of a blue spruce</p>
+<p>Watercolor on clayboard</p>
+<p>24” x 24”</p>
+<p>$1,500.00</p>
+<p>Wynter Jones</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984033497344</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984030744832</id>
+    <published>2022-10-07T10:00:06-07:00</published>
+    <updated>2022-10-07T10:00:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/i-fell-and-i-fell-and-i-fell-forest-salazar"/>
+    <title>I Fell And I Fell And I Fell • Forest Salazar</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/ForestSalazar_IFellAndIFellAndIFell.jpg?v=1664915273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            1600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Fell And I Fell And I Fell</p>
+<p>acrylic on canvas</p>
+<p>36" x 36"</p>
+<p>$1,600.00</p>
+<p>Forest Salazar</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984030744832</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984029597952</id>
+    <published>2022-10-07T10:00:06-07:00</published>
+    <updated>2022-10-07T10:00:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/my-ego-meets-the-softer-parts-of-me-forest-salazar"/>
+    <title>My Ego meets the Softer Parts of Me • Forest Salazar</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/ForestSalazar_MyEgoMeetsTheSofterPartsOfMe.jpg?v=1664915210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            1700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>My Ego meets the Softer Parts of Me</p>
+<p>acrylic and colored pencil on canvas</p>
+<p>36" x 36"</p>
+<p>$1,700.00</p>
+<p>Forest Salazar</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984029597952</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984026878208</id>
+    <published>2022-10-07T10:00:06-07:00</published>
+    <updated>2022-10-07T10:00:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/sanguine-color-cage-rage-forest-salazar"/>
+    <title>Sanguine Color Cage Rage • Forest Salazar</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/ForestSalazar_SanguineColoredCageRage.jpg?v=1664915148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sanguine Color Cage Rage</p>
+<p>acrylic, pastel and colored pencil on canvas</p>
+<p>40" x 30"</p>
+<p>$1,500.00</p>
+<p>Forest Salazar</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984026878208</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984025403648</id>
+    <published>2022-10-07T10:00:06-07:00</published>
+    <updated>2022-10-07T10:00:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/unpredictable-alison-beebe"/>
+    <title>Unpredictable • Alison Beebe</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/AlisonBeebe_unpredictable.jpg?v=1664915027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Life Patterns</p>
+<p>Acrylic on Canvas</p>
+<p>12" x 15"</p>
+<p>$175.00</p>
+<p>Alison Beebe</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984025403648</id>
+      <title>Default Title</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7984024453376</id>
+    <published>2022-10-07T10:00:05-07:00</published>
+    <updated>2022-10-07T10:00:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/life-patterns-alison-beebe"/>
+    <title>Life Patterns • Alison Beebe</title>
+    <s:type>Arts &amp; Entertainment</s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/AlisonBeebe_Lifepatterns.jpg?v=1664914994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong>Arts &amp; Entertainment<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Life Patterns</p>
+<p>Acrylic on Canvas</p>
+<p>12" x 18"</p>
+<p>$175.00</p>
+<p>Alison Beebe</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks annex</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7984024453376</id>
+      <title>Default Title</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

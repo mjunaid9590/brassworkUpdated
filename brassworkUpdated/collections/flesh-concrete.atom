@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.brassworksannex.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.brassworksannex.com/collections/flesh-concrete.atom"/>
+  <title>Brassworks Annex</title>
+  <updated>2021-06-24T13:18:22-07:00</updated>
+  <author>
+    <name>Brassworks Annex</name>
+  </author>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600142385408</id>
+    <published>2021-06-24T13:18:22-07:00</published>
+    <updated>2021-06-24T13:18:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/bonnie-and-clyde"/>
+    <title>Bonnie and Clyde</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/bonnieandclyde23a.jpg?v=1645140727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="comp-k2f75kjq" class="txtNew" data-packed="true">
+<p class="font_7"><span>Bonnie and Clyde</span></p>
+<p class="font_7"><span>Gregory Hergert</span></p>
+<p class="font_7"><span>oil on panel</span></p>
+<p class="font_7"><span>8.5x11</span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>gregory hergert</s:tag>
+    <s:tag>hergert urban surrealism</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600142385408</id>
+      <title>Default Title</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600138486016</id>
+    <published>2021-06-24T13:18:22-07:00</published>
+    <updated>2021-06-24T13:18:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-sorcerer"/>
+    <title>The Sorcerer</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/thesorcerer.jpg?v=1645140624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="comp-k2f75kjq" class="txtNew" data-packed="true">
+<p class="font_7"><span>The Sorcerer</span></p>
+<p class="font_7"><span>Gregory Hergert</span></p>
+<p class="font_7"><span>Framed Drawing</span></p>
+<p class="font_7"><span>18x24 </span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>gregory hergert</s:tag>
+    <s:tag>hergert urban surrealism</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600138486016</id>
+      <title>Default Title</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600135340288</id>
+    <published>2021-06-24T13:18:22-07:00</published>
+    <updated>2021-06-24T13:18:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/street-fix"/>
+    <title>Street Fix</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/streetfux.jpg?v=1645140532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="comp-k2f75kjq" class="txtNew" data-packed="true">
+<p class="font_7"><span>Street Fix</span><br></p>
+<p class="font_7"><span>Gregory Hergert</span></p>
+<p class="font_7"><span>Framed Drawing</span></p>
+<p class="font_7"><span>18x24 </span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>gregory hergert</s:tag>
+    <s:tag>hergert urban surrealism</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600135340288</id>
+      <title>Default Title</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600121086208</id>
+    <published>2021-06-24T13:18:22-07:00</published>
+    <updated>2021-06-24T13:18:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/coney"/>
+    <title>Coney</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/COney.jpg?v=1645140206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="comp-k2f75kjq" class="txtNew" data-packed="true">
+<p class="font_7"><span>Coney</span></p>
+<p class="font_7"><span>Gregory Hergert</span></p>
+<p class="font_7"><span>Framed Drawing</span></p>
+<p class="font_7"><span>18x24 </span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>gregory hergert</s:tag>
+    <s:tag>hergert urban surrealism</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600121086208</id>
+      <title>Default Title</title>
+      <s:price currency="USD">800.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600141402368</id>
+    <published>2021-06-24T13:18:21-07:00</published>
+    <updated>2021-06-24T13:18:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/bang"/>
+    <title>Bang</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/bang3a.jpg?v=1645140680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="comp-k2f75kjq" class="txtNew" data-packed="true">
+<p class="font_7"><span>Bang</span></p>
+<p class="font_7"><span>Gregory Hergert</span></p>
+<p class="font_7"><span>oil on panel</span></p>
+<p class="font_7"><span>8.5x11</span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>gregory hergert</s:tag>
+    <s:tag>hergert urban surrealism</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600141402368</id>
+      <title>Default Title</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600131408128</id>
+    <published>2021-06-24T13:18:21-07:00</published>
+    <updated>2021-06-24T13:18:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/rat-collector"/>
+    <title>Rat Collector</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/2c956b_f04a61aa5fb645c697c6badc99f79922_mv2.jpg?v=1645140464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="comp-k2f75kjq" class="txtNew" data-packed="true">
+<p class="font_7"><span>Rat Collector</span></p>
+<p class="font_7"><span>Gregory Hergert</span></p>
+<p class="font_7"><span>oil on panel</span></p>
+<p class="font_7"><span>8.5x11</span></p>
+<p class="font_7"><span>$350</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>gregory hergert</s:tag>
+    <s:tag>hergert urban surrealism</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600131408128</id>
+      <title>Default Title</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600130425088</id>
+    <published>2021-06-24T13:18:21-07:00</published>
+    <updated>2021-06-24T13:18:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/other-side-of-the-tracks"/>
+    <title>Other Side of the Tracks</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/othersideofthetracks23a.jpg?v=1645140450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Other Side of the Tracks</span></p>
+<p class="font_7"><span>Gregory Hergert</span></p>
+<p class="font_7"><span>oil on panel</span></p>
+<p class="font_7"><span>11x14</span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>gregory hergert</s:tag>
+    <s:tag>hergert urban surrealism</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600130425088</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600127803648</id>
+    <published>2021-06-24T13:18:21-07:00</published>
+    <updated>2021-06-24T13:18:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/live-life"/>
+    <title>Live Life</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/livelife3a.jpg?v=1645140370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Live Life</span></p>
+<p class="font_7"><span>Gregory Hergert</span></p>
+<p class="font_7"><span>oil on panel</span></p>
+<p class="font_7"><span>11x14</span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>gregory hergert</s:tag>
+    <s:tag>hergert urban surrealism</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600127803648</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600134127872</id>
+    <published>2021-06-24T13:18:20-07:00</published>
+    <updated>2021-06-24T13:18:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/sephora"/>
+    <title>Sephora</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/sephora2a.jpg?v=1645140506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Sephora</span></p>
+<p class="font_7"><span>Gregory Hergert</span></p>
+<p class="font_7"><span>oil on panel</span></p>
+<p class="font_7"><span>11x14</span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>gregory hergert</s:tag>
+    <s:tag>hergert urban surrealism</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600134127872</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600129048832</id>
+    <published>2021-06-24T13:18:20-07:00</published>
+    <updated>2021-06-24T13:18:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/me-worry"/>
+    <title>Me Worry?</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/meworry3a.jpg?v=1645140405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Me Worry?</span></p>
+<p class="font_7"><span>Gregory Hergert</span></p>
+<p class="font_7"><span>oil on panel</span></p>
+<p class="font_7"><span>11x14</span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>gregory hergert</s:tag>
+    <s:tag>hergert urban surrealism</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600129048832</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600128819456</id>
+    <published>2021-06-24T13:18:20-07:00</published>
+    <updated>2021-06-24T13:18:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/mall-of-choice"/>
+    <title>Mall of Choice</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/mallofchoice3a.jpg?v=1645140404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Mall of Choice</span></p>
+<p class="font_7"><span>Gregory Hergert</span></p>
+<p class="font_7"><span>oil on panel</span></p>
+<p class="font_7"><span>11x14</span></p>
+<p class="font_7"><span><br></span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>gregory hergert</s:tag>
+    <s:tag>hergert urban surrealism</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600128819456</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600118563072</id>
+    <published>2021-06-24T13:18:20-07:00</published>
+    <updated>2021-06-24T13:18:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/amazon-prime"/>
+    <title>Amazon Prime </title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/amazonprime3a.jpg?v=1645140123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Amazon Prime </span></p>
+<p class="font_7"><span>Gregory Hergert</span></p>
+<p class="font_7"><span>oil on panel</span></p>
+<p class="font_7"><span>11x14</span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>gregory hergert</s:tag>
+    <s:tag>hergert urban surrealism</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600118563072</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600133243136</id>
+    <published>2021-06-24T13:18:19-07:00</published>
+    <updated>2021-06-24T13:18:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/rogue"/>
+    <title>Rogue</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/rogue2c.jpg?v=1645140494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Rogue</span></p>
+<p class="font_7"><span>Gregory Hergert</span></p>
+<p class="font_7"><span>oil on panel</span></p>
+<p class="font_7"><span>20x30</span></p>
+<p class="font_7"><span>$4000</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>gregory hergert</s:tag>
+    <s:tag>hergert urban surrealism</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600133243136</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600122331392</id>
+    <published>2021-06-24T13:18:19-07:00</published>
+    <updated>2021-06-24T13:18:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/curb-band"/>
+    <title>Curb Band</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/curbband2d.jpg?v=1645140235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Curb Band</span></p>
+<p class="font_7"><span>Gregory Hergert</span></p>
+<p class="font_7"><span>oil on panel</span></p>
+<p class="font_7"><span>20x30</span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>gregory hergert</s:tag>
+    <s:tag>hergert urban surrealism</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600122331392</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600140419328</id>
+    <published>2021-06-24T13:18:18-07:00</published>
+    <updated>2021-06-24T13:18:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/vinyl-girl"/>
+    <title>Vinyl Girl</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/VINYLprintsm.jpg?v=1645140666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Vinyl Girl</span></p>
+<p class="font_7"><span>Glenn Barr</span></p>
+<p class="font_7"><span>3 Color Screen Print</span></p>
+<p class="font_7"><span>10 Available</span></p>
+<p class="font_7"><span>16x25</span></p>
+<p class="font_7"><span>$65</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>glenn barr</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600140419328</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600126361856</id>
+    <published>2021-06-24T13:18:18-07:00</published>
+    <updated>2021-06-24T13:18:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/hot-stuff"/>
+    <title>Hot Stuff</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/HotStuffClub-print-sm.jpg?v=1645140334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Hot Stuff</span></p>
+<p class="font_7"><span>Glenn Barr</span></p>
+<p class="font_7"><span>Pigment Print</span></p>
+<p class="font_7"><span></span><span>12x12</span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>glenn barr</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600126361856</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600123937024</id>
+    <published>2021-06-24T13:18:18-07:00</published>
+    <updated>2021-06-24T13:18:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/exile-bar"/>
+    <title>Exile Bar</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/EXILE2020.jpg?v=1645140285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Exile Bar</span></p>
+<p class="font_7"><span>Glenn Barr</span></p>
+<p class="font_7"><span>3 Color Screen Print</span></p>
+<p class="font_7"><span></span><span>16x24</span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>glenn barr</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600123937024</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600123543808</id>
+    <published>2021-06-24T13:18:18-07:00</published>
+    <updated>2021-06-24T13:18:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/downstairs-at-the-shelter"/>
+    <title>Downstairs At The Shelter</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/DownstairsAtTheShelter-sm.jpg?v=1645140279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Downstairs At The Shelter</span></p>
+<p class="font_7"><span>Glenn Barr</span></p>
+<p class="font_7"><span>Pigment Print</span></p>
+<p class="font_7"><span>2 Available</span></p>
+<p class="font_7"><span>13x16</span></p>
+<p class="font_7"><span>$110</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>glenn barr</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600123543808</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600140255488</id>
+    <published>2021-06-24T13:18:17-07:00</published>
+    <updated>2021-06-24T13:18:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/urban-twilight"/>
+    <title>Urban Twilight</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Urban-Twilight-sm.jpg?v=1645140663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Urban Twilight</span></p>
+<p class="font_7"><span>Glenn Barr</span></p>
+<p class="font_7"><span>Pigment Print</span></p>
+<p>Open edition until end of show</p>
+<p class="font_7"><span>23x28</span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>glenn barr</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600140255488</id>
+      <title>Default Title</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600137699584</id>
+    <published>2021-06-24T13:18:17-07:00</published>
+    <updated>2021-06-24T13:18:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/the-new-world"/>
+    <title>The New World</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/NewWorld.jpg?v=1645140590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>The New World</span></p>
+<p class="font_7"><span><span class="wixGuard">​</span>Glenn Barr</span></p>
+<p class="font_7"><span>Acrylic on Wood Panel</span></p>
+<p class="font_7"><span>24x30</span></p>
+<p class="font_7"><span>$3500</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>glenn barr</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600137699584</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600120529152</id>
+    <published>2021-06-24T13:18:17-07:00</published>
+    <updated>2021-06-24T13:18:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/chaos"/>
+    <title>Chaos</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Chaos.jpg?v=1645140175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Chaos</span></p>
+<p class="font_7"><span>Glenn Barr</span></p>
+<p class="font_7"><span>Acrylic on Wood Panel</span></p>
+<p class="font_7"><span>14x14</span></p>
+<p class="font_7"><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>glenn barr</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600120529152</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600138912000</id>
+    <published>2021-06-24T13:18:16-07:00</published>
+    <updated>2021-06-24T13:18:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/time"/>
+    <title>Time</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Time.jpg?v=1645140633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Time</span></p>
+<p class="font_7"><span>Glenn Barr</span></p>
+<p class="font_7"><span>Acrylic on Wood Panel</span></p>
+<p class="font_7"><span>12x12</span></p>
+<p class="font_7"><span>$1350</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>glenn barr</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600138912000</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600130949376</id>
+    <published>2021-06-24T13:18:16-07:00</published>
+    <updated>2021-06-24T13:18:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/portland-noir"/>
+    <title>Portland Noir</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/PortlandNoir.jpg?v=1645140457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Portland Noir</span></p>
+<p class="font_7"><span>Glenn Barr</span></p>
+<p class="font_7"><span>Acrylic on Wood Panel</span></p>
+<p class="font_7"><span>12x12</span></p>
+<p class="font_7"><span>$1350</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>glenn barr</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600130949376</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600130490624</id>
+    <published>2021-06-24T13:18:16-07:00</published>
+    <updated>2021-06-24T13:18:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/parts"/>
+    <title>Parts</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Parts.jpg?v=1645140452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Parts</span></p>
+<p class="font_7"><span>Glenn Barr</span></p>
+<p class="font_7"><span>Acrylic on Wood Panel</span></p>
+<p class="font_7"><span>12x12</span></p>
+<p class="font_7"><span>$1350</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>glenn barr</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600130490624</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600141992192</id>
+    <published>2021-06-24T13:18:15-07:00</published>
+    <updated>2021-06-24T13:18:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/7-mile"/>
+    <title>7 Mile</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Annex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/7Mile.jpg?v=1645140718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Annex<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>7 Mile</span></p>
+<p class="font_7"><span>Glenn Barr</span></p>
+<p class="font_7"><span>Acrylic on Wood Panel</span></p>
+<p class="font_7"> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>glenn barr</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600141992192</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+</feed>

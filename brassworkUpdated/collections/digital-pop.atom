@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.brassworksannex.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.brassworksannex.com/collections/digital-pop.atom"/>
+  <title>Brassworks Annex</title>
+  <updated>2021-06-24T13:17:56-07:00</updated>
+  <author>
+    <name>Brassworks Annex</name>
+  </author>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600134750464</id>
+    <published>2021-06-24T13:17:56-07:00</published>
+    <updated>2021-06-24T13:17:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/soma"/>
+    <title>Soma</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/20201102_095408.jpg?v=1645140522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p class="font_7"><span>Soma</span></p>
+<p class="font_7"><span>@GeorgePerrou</span></p>
+<p class="font_7"><span> acrylic on birch panel</span></p>
+<p class="font_7"><span>18x24</span></p>
+<p class="font_7"><span>$450</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>georgeperrou</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600134750464</id>
+      <title>Default Title</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600130654464</id>
+    <published>2021-06-24T13:17:56-07:00</published>
+    <updated>2021-06-24T13:17:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/pass-through"/>
+    <title>Pass Through</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/20201102_095329.jpg?v=1645140453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p class="font_7"><span>Pass Through</span></p>
+<p class="font_7"><span>@GeorgePerrou</span></p>
+<p class="font_7"><span> acrylic on birch panel</span></p>
+<p class="font_7"><span>18x24</span></p>
+<p class="font_7"><span>$450</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>georgeperrou</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600130654464</id>
+      <title>Default Title</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600142909696</id>
+    <published>2021-06-24T13:17:55-07:00</published>
+    <updated>2021-06-24T13:17:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/if-it-aint-one-team"/>
+    <title>If It Aint One Team</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/ifItAintOneTeam1.jpg?v=1645140736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>If It Aint One Team</span><br></p>
+<p class="font_7"><span>@Exa</span></p>
+<p class="font_7"><span> framed digital print</span></p>
+<p class="font_7"><span>12x18</span></p>
+<p class="font_7"><span>$190</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>exa</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600142909696</id>
+      <title>Default Title</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600131277056</id>
+    <published>2021-06-24T13:17:55-07:00</published>
+    <updated>2021-06-24T13:17:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/rankings"/>
+    <title>Rankings</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/updatedRankings1.jpg?v=1645140463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7">Rankings﻿</p>
+<p class="font_7"><span>@Exa</span></p>
+<p class="font_7"><span> framed digital print</span></p>
+<p class="font_7"><span>12x18</span></p>
+<p class="font_7"><span>$190</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>exa</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600131277056</id>
+      <title>Default Title</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600129999104</id>
+    <published>2021-06-24T13:17:55-07:00</published>
+    <updated>2021-06-24T13:17:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/no-lies-just-love"/>
+    <title>No Lies Just Love</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/noLiesJustLove1.jpg?v=1645140442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p class="font_7"><span>No Lies Just Love</span></p>
+<p class="font_7"><span>@Exa</span></p>
+<p class="font_7"><span> framed digital print</span></p>
+<p class="font_7"><span>12x18</span></p>
+<p class="font_7"><span>$190</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>exa</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600129999104</id>
+      <title>Default Title</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600129310976</id>
+    <published>2021-06-24T13:17:55-07:00</published>
+    <updated>2021-06-24T13:17:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/mode-network"/>
+    <title>Mode Network</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/defaultModeNetwork1.jpg?v=1645140407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p class="font_7"><span>Mode Network</span></p>
+<p class="font_7"><span>@Exa</span></p>
+<p class="font_7"><span> framed digital print</span></p>
+<p class="font_7"><span>12x18</span></p>
+<p class="font_7"><span>$190</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>exa</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600129310976</id>
+      <title>Default Title</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600123805952</id>
+    <published>2021-06-24T13:17:55-07:00</published>
+    <updated>2021-06-24T13:17:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/eating-sunlight"/>
+    <title>Eating Sunlight</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/eatingSunlight1.jpg?v=1645140283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p class="font_7"><span>Eating Sunlight</span></p>
+<p class="font_7"><span>@Exa</span></p>
+<p class="font_7"><span> framed digital print</span></p>
+<p class="font_7"><span>12x18</span></p>
+<p class="font_7"><span>$190</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>exa</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600123805952</id>
+      <title>Default Title</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600135274752</id>
+    <published>2021-06-24T13:17:54-07:00</published>
+    <updated>2021-06-24T13:17:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/still-life"/>
+    <title>Still Life</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/stillLife1.jpg?v=1645140531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Still Life</span></p>
+<p class="font_7"><span>@Exa</span></p>
+<p class="font_7"><span> framed digital print</span></p>
+<p class="font_7"><span>12x18</span></p>
+<p class="font_7"><span>$190</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>exa</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600135274752</id>
+      <title>Default Title</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600133538048</id>
+    <published>2021-06-24T13:17:54-07:00</published>
+    <updated>2021-06-24T13:17:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/royal-cowboys"/>
+    <title>Royal Cowboys</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/image9.jpg?v=1645140496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Royal Cowboys</span></p>
+<p class="font_7"><span>@AceTroy</span></p>
+<p class="font_7"><span> Spraypaint/wood/resin </span></p>
+<p class="font_7"><span>$200</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AceTroy</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600133538048</id>
+      <title>Default Title</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600128950528</id>
+    <published>2021-06-24T13:17:54-07:00</published>
+    <updated>2021-06-24T13:17:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/may-queen-of-wonderland"/>
+    <title>May Queen of Wonderland</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/image8.jpg?v=1645140405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>May Queen of Wonderland</span></p>
+<p class="font_7"><span>@AceTroy</span></p>
+<p class="font_7"><span> Spraypaint/wood/resin </span></p>
+<p class="font_7"><span>$400</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AceTroy</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600128950528</id>
+      <title>Default Title</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600127672576</id>
+    <published>2021-06-24T13:17:53-07:00</published>
+    <updated>2021-06-24T13:17:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/lisa-plays-pink-panther"/>
+    <title>Lisa Plays Pink Panther</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/image2.jpg?v=1645140369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Lisa Plays Pink Panther</span></p>
+<p class="font_7"><span>@AceTroy</span></p>
+<p class="font_7"><span> Spraypaint/wood/resin </span></p>
+<p class="font_7"><span><span class="wixGuard">​</span></span></p>
+<p class="font_7"><span>$80</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AceTroy</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600127672576</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600126198016</id>
+    <published>2021-06-24T13:17:53-07:00</published>
+    <updated>2021-06-24T13:17:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/acetroy-spraypaint-wood-resin-75"/>
+    <title>Homerfield</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/IMG_1083.jpg?v=1645140331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Homerfield</span></p>
+<p class="font_7"><span>@AceTroy</span></p>
+<p class="font_7"><span> Spraypaint/wood/resin </span></p>
+<p class="font_7"><span>$75</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AceTroy</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600126198016</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600124395776</id>
+    <published>2021-06-24T13:17:53-07:00</published>
+    <updated>2021-06-24T13:17:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/freddy"/>
+    <title>Freddy</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/image8-1.jpg?v=1645140290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            666.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Freddy</span></p>
+<p class="font_7"><span>@AceTroy</span></p>
+<p class="font_7"><span> Acrylic/resin on wood</span></p>
+<p class="font_7"><span>$666</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AceTroy</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600124395776</id>
+      <title>Default Title</title>
+      <s:price currency="USD">666.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600124035328</id>
+    <published>2021-06-24T13:17:53-07:00</published>
+    <updated>2021-06-24T13:17:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/existential"/>
+    <title>Existential</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/image7.jpg?v=1645140286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Existential</span></p>
+<p class="font_7"><span>@AceTroy</span></p>
+<p class="font_7"><span> Acrylic/resin on wood</span></p>
+<p class="font_7"><span>(Partially UV Reactive)</span></p>
+<p class="font_7"><span>$750</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AceTroy</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600124035328</id>
+      <title>Default Title</title>
+      <s:price currency="USD">750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600123478272</id>
+    <published>2021-06-24T13:17:53-07:00</published>
+    <updated>2021-06-24T13:17:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/don-t-have-a-cowabunga-man"/>
+    <title>Don’t Have a Cowabunga Man</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/image3.jpg?v=1645140277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Don’t Have a Cowabunga Man</span></p>
+<p class="font_7"><span>@AceTroy</span></p>
+<p class="font_7"><span> Spraypaint/wood/resin </span></p>
+<p class="font_7"><span>$100</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AceTroy</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600123478272</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600134422784</id>
+    <published>2021-06-24T13:17:52-07:00</published>
+    <updated>2021-06-24T13:17:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/sid-vicious"/>
+    <title>Sid Vicious</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/image0-1.jpg?v=1645140514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Sid Vicious</span></p>
+<p class="font_7"><span>@AceTroy</span></p>
+<p class="font_7"><span> multimedia &amp; spray paint</span></p>
+<p class="font_7"><span>$400</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AceTroy</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600134422784</id>
+      <title>Default Title</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600131309824</id>
+    <published>2021-06-24T13:17:52-07:00</published>
+    <updated>2021-06-24T13:17:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/rain-rain-go-away"/>
+    <title>Rain Rain Go Away</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/image4.jpg?v=1645140463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Rain Rain Go Away</span></p>
+<p class="font_7"><span>@AceTroy</span></p>
+<p class="font_7"><span> Multimedia/Acrylic/Resin</span></p>
+<p class="font_7"><span>(UV Reactive)</span></p>
+<p class="font_7"><span>$350</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AceTroy</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600131309824</id>
+      <title>Default Title</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600128786688</id>
+    <published>2021-06-24T13:17:52-07:00</published>
+    <updated>2021-06-24T13:17:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/magically-delicious"/>
+    <title>Magically Delicious</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/image6.jpg?v=1645140404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Magically Delicious</span></p>
+<p class="font_7"><span>@AceTroy</span></p>
+<p class="font_7"><span> multimedia/resin/acrylic</span></p>
+<p class="font_7"><span>$500</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AceTroy</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600128786688</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600127017216</id>
+    <published>2021-06-24T13:17:52-07:00</published>
+    <updated>2021-06-24T13:17:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/is-there-a-problem-occifer"/>
+    <title>Is There a Problem Occifer?</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/image1.jpg?v=1645140362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Is There a Problem Occifer?</span></p>
+<p class="font_7"><span>@AceTroy</span></p>
+<p class="font_7"><span> Acrylic/Spraypaint/ </span></p>
+<p class="font_7"><span>resin on wood</span></p>
+<p class="font_7"><span>$400</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AceTroy</s:tag>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600127017216</id>
+      <title>Default Title</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600142156032</id>
+    <published>2021-06-24T13:17:51-07:00</published>
+    <updated>2021-06-24T13:17:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/blue-billie"/>
+    <title>Blue Billie</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/BlueBillie.jpg?v=1645140724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Blue Billie</span></p>
+<p class="font_7"><span>@t0a5t</span></p>
+<p class="font_7"><span> Layered Adhesive Vinyl Topograph</span></p>
+<p class="font_7"><span>20x20</span></p>
+<p class="font_7"><span>$150</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>t0a5t</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600142156032</id>
+      <title>Default Title</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600141140224</id>
+    <published>2021-06-24T13:17:51-07:00</published>
+    <updated>2021-06-24T13:17:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/yukata"/>
+    <title>Yukata</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Yukata.jpg?v=1645140675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Yukata</span></p>
+<p class="font_7"><span>@t0a5t</span></p>
+<p class="font_7"><span> Layered Adhesive Vinyl Topograph</span></p>
+<p class="font_7"><span>13x13</span></p>
+<p class="font_7"><span>$150</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>t0a5t</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600141140224</id>
+      <title>Default Title</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600134062336</id>
+    <published>2021-06-24T13:17:51-07:00</published>
+    <updated>2021-06-24T13:17:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/say-uncle"/>
+    <title>Say Uncle</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/SayUncle.jpg?v=1645140504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Say Uncle</span><br></p>
+<p class="font_7"><span>@t0a5t</span></p>
+<p class="font_7"><span> Layered Adhesive Vinyl Topograph</span></p>
+<p class="font_7"><span>13x13</span></p>
+<p class="font_7"><span>$150</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>t0a5t</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600134062336</id>
+      <title>Default Title</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600122724608</id>
+    <published>2021-06-24T13:17:51-07:00</published>
+    <updated>2021-06-24T13:17:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/desert-dream"/>
+    <title>Desert Dream</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/DesertDream.jpg?v=1645140243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Desert Dream</span></p>
+<p class="font_7"><span>@t0a5t</span></p>
+<p class="font_7"><span> Layered Adhesive Vinyl Topograph</span></p>
+<p class="font_7"><span>13x13</span></p>
+<p class="font_7"><span>$150</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>t0a5t</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600122724608</id>
+      <title>Default Title</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600134979840</id>
+    <published>2021-06-24T13:17:50-07:00</published>
+    <updated>2021-06-24T13:17:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/spirit-toast"/>
+    <title>Spirit Toast</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/SpiritToast.jpg?v=1645140526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Spirit Toast</span><br data-cke-eol="1"><br></p>
+<p class="font_7"><span>@t0a5t</span></p>
+<p class="font_7"><span> Layered Adhesive Vinyl Topograph</span></p>
+<p class="font_7"><span>20x20</span></p>
+<p class="font_7"><span>$300</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>t0a5t</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600134979840</id>
+      <title>Default Title</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.brassworksannex.com/products/7600124428544</id>
+    <published>2021-06-24T13:17:50-07:00</published>
+    <updated>2021-06-24T13:17:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.brassworksannex.com/products/frankly"/>
+    <title>Frankly</title>
+    <s:type></s:type>
+    <s:vendor>Brassworks Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0629/8779/6736/products/Frankly.jpg?v=1645140291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brassworks Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-packed="true" class="txtNew" id="comp-k2f75kjq">
+<p class="font_7"><span>Frankly</span></p>
+<p class="font_7"><span>@t0a5t</span></p>
+<p class="font_7"><span> Layered Adhesive Vinyl Topograph</span></p>
+<p class="font_7"><span>13x13</span></p>
+<p class="font_7"><span>$150</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brassworks gallery</s:tag>
+    <s:tag>digitalpop</s:tag>
+    <s:tag>street art</s:tag>
+    <s:tag>t0a5t</s:tag>
+    <s:tag>urban art</s:tag>
+    <s:variant>
+      <id>https://www.brassworksannex.com/products/7600124428544</id>
+      <title>Default Title</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>
