@@ -1262,8 +1262,8 @@ html, body {
       bottom: 0;
       left: 0;
       right: 0; } }
-  .map-section--display-map .map-section__image {
-    display: none !important; }
+  /* .map-section--display-map .map-section__image {
+    display: none !important; } */
 
 .map-section__background-wrapper {
   background-color: rgba(118, 118, 118, 0.05); }
